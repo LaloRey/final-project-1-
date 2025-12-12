@@ -1,5 +1,5 @@
 import sys
-from controller import GradeCheckerWindow
+from logic import *
 from PyQt6.QtWidgets import QApplication
 
 
